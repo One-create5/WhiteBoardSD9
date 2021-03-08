@@ -30,9 +30,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPrime", "IsPrime\IsPrime.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPrimeTest", "IsPrimeTest\IsPrimeTest.csproj", "{10369F35-BAA2-447B-A575-0BB6C6B8539E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntArray", "SortIntArray\SortIntArray.csproj", "{C9D47D6A-0F4E-4AF2-BBAD-B97F1BF4E8A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortIntArray", "SortIntArray\SortIntArray.csproj", "{C9D47D6A-0F4E-4AF2-BBAD-B97F1BF4E8A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntArrayTest", "SortIntArrayTest\SortIntArrayTest.csproj", "{781BAF9F-C339-42FC-A758-2CC051572D62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortIntArrayTest", "SortIntArrayTest\SortIntArrayTest.csproj", "{781BAF9F-C339-42FC-A758-2CC051572D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreWhiteBoardP", "MoreWhiteBoardP\MoreWhiteBoardP.csproj", "{8259D2E3-05AE-448F-A14E-C67FA9CAE6FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -96,6 +98,10 @@ Global
 		{781BAF9F-C339-42FC-A758-2CC051572D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781BAF9F-C339-42FC-A758-2CC051572D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781BAF9F-C339-42FC-A758-2CC051572D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8259D2E3-05AE-448F-A14E-C67FA9CAE6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8259D2E3-05AE-448F-A14E-C67FA9CAE6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8259D2E3-05AE-448F-A14E-C67FA9CAE6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8259D2E3-05AE-448F-A14E-C67FA9CAE6FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
